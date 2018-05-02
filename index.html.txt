@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+</head>
+
+<body>
+    <div class='homework_1'>
+        <h1 align="center">Home Works of FE Advanced</h1>
+        <b>homework_1</b>
+        <ol>
+            <li> <a href="https://lagjulia.github.io/fe-core-hw/module-1/module-1.html">index</a></li>
+            <li><a href="https://github.com/lagjulia/fe-core-hw/tree/master/module-1">html</a></li>
+        </ol>
+    </div>
+</body>
+
+</html>
