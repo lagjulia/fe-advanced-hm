@@ -1,0 +1,6 @@
+[user]
+	name = lgvjulia
+	email = spathiphyllum.simon@gmail.com
+[core]
+	autocrlf = true
+	safecrlf = true
