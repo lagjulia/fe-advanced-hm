@@ -34,9 +34,9 @@ const checkLoginValidity = function(login) {
         } else {
             if (heckIfLoginExists (logins, login) === false) {
                 logins.push(login);
-                console.log('Логин успешно добавлен');
+                alert('Логин успешно добавлен');
             } else {
-                console.log('Такой логин уже используется');
+                alert('Такой логин уже используется');
             }
         }
     }
